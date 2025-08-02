@@ -2,7 +2,7 @@ import os
 from yt_dlp import YoutubeDL
 
 # Carpeta de salida
-OUTPUT_FOLDER = "/Users/sebastiantrangol/Desktop/MP3"
+OUTPUT_FOLDER = "tuRutaDestino"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # Pedir URL
